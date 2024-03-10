@@ -35,7 +35,7 @@ here is a demo,
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
+https://github.com/ravi0dubey/Movie_Recommender_System_Using_Machine_Learning.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 
 ```bash
-#run this file to generate the models
+#run this .ipynb file which has the EDA as well as it generate the models
 
 Movie Recommender System Data Analysis.ipynb
 ```
