@@ -2,6 +2,6 @@
 dataset
 Movie_Recommendation_Systems_MIT_Notebook_Part1.ipynb
 Movie_Recommendation_Systems_MIT_Notebook_Part2.ipynb
-movie-recommendation-user_accessKeys
+movie-recommendation-user_accessKeys.csv
 aws details.txt
 movie-recommendation-keypair.pem
